@@ -1,8 +1,8 @@
 
 .notification {
-    padding: 10px;
-    color: red;
-    text-align: left;
-    font-size: 18px;
-  }
-  
+  padding: 10px;
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold; 
+  color: red; 
+}
