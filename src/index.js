@@ -1,7 +1,6 @@
 import { createRoot } from 'react-dom/client'; 
 
 import React from 'react';
-import ReactDOM from 'react-dom';
 import App from './components/App';
 
 import './index.css';
